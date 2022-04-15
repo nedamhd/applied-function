@@ -33,7 +33,7 @@ Replace = function(x, list, values) {
 
 
 
-       Replace(x=c(1:10, NA,"k") ,list= c(2:3  ),values= 10000)
+#Replace(x=c(1:10, NA,"k") ,list= c(2:3  ),values= 10000)
    
    
    
